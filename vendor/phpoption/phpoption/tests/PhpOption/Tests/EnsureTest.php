@@ -9,7 +9,7 @@ use PhpOption\Some;
 /**
  * Tests for Option::ensure() method
  *
- * @covers \PhpOption\Option::ensure
+ * @covers Option::ensure
  */
 class EnsureTest extends \PHPUnit_Framework_TestCase
 {
