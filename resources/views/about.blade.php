@@ -83,6 +83,7 @@
                      <h2> 
                         <em class="code"> Laravel Devs. Owerri</em> <br /> is a community of developer in <br /> and around Owerri that uses laravel<br /> Framework to develop web apps 
                      </h2>
+                     <h3>We are committed in creating a community <br /> around laravel framework in owerri.</h3>
                 </div>   
             </div>
         </div>
